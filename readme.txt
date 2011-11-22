@@ -3,7 +3,7 @@ Contributors: dashifen
 Tags: dice, dice roller, dice rolling, awesome dice, gaming dice, d4, d6, d8, d10, d20, d100, percentile
 Requires at least: 3.2
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 The Gaming Dice Roller lets users roll any number of the standard polyhedral RPG gaming dice, and outputs the numbers. A perfect way to spread the love to the diceless masses.
 
@@ -34,6 +34,11 @@ The D&D Dice Roller is a simple and effective d20 rolling widget. You can see it
 1. Edit the default title for the widget (if desired) and be sure to correctly indicate if you want modifiers to apply to the roll.
 
 == Changelog ==
+
+= 1.1 =
+* November 22, 2011
+* Fixed credit link
+* Corrected JavaScript include
 
 = 1.0 =
 * November 17, 2011
