@@ -1,0 +1,21 @@
+/* CSS Document */
+
+#dice_rolling_form span {
+	position: absolute;
+	left: -10000px;
+}
+
+#gaming_dice_roller_pool {
+	width: 25px;
+}
+
+#gaming_dice_roller_results p {
+	border: 1px dotted #999;
+	height: 75px;
+	overflow: auto;
+	padding: 0 5px;
+}	
+
+#gaming_dice_roller_link {
+	font-size: 75%;
+}
