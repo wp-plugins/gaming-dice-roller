@@ -1,6 +1,6 @@
 <?php
 /*
-Version: 1.0
+Version: 1.1
 Plugin Name: Gaming Dice Roller
 Description: The Gaming Dice Roller lets users roll any number of the standard ployhedral RPG gaming dice and outputs the numbers.  A perfect way to spread the love to the diceless masses!
 Author URI: http://dashfien.com
